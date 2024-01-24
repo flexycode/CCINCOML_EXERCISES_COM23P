@@ -1,3 +1,5 @@
+# Pseudocode:
+
 Start
     Start the game of blackjack
     Receive the initial two cards
