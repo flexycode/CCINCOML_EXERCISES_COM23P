@@ -16,8 +16,8 @@ Course Outline: https://believed-bongo-319.notion.site/CCINCOML-53b7f7cef72a4359
 | :---: | :---: |       
 | Part 1 - Computer Systems | Brief History of Computer systems, Types of Computer Systems, Components of a Computer system and Computer Networks |
 | Part 2 - Programming Languages | Brief History and Types of Programming Languages|
-| Part 3 - Logic Development: Flowcharts | Symbols, Connections and Rules | 
-| Part 4 - Logic Development: Pseudocode | Language, Keywords and Rules |
+| Part 3 - Logic Development: Flowcharts | Symbols, Connections and Rules |  
+| Part 4 - Logic Development: Pseudocode | Language, Keywords and Rules | 
 | Part 5 - The Number System | Types, Conversions, Basic Operations and Complements |
 | Part 6 - Logic Gates | Types, Expressions, Diagrams, Basic Boolean Operators |
 | Part 7 - Introduction to Python programming language Part 1 | Overview, Basic Syntax, Variables, Basic Operations, Decision Making |
@@ -30,13 +30,27 @@ Course Outline: https://believed-bongo-319.notion.site/CCINCOML-53b7f7cef72a4359
 - [License](#license) 
 - [Acknowledgements](#acknowledgements)
 - [FAQ](#faq) 
-- [Changelog](#changelog) 
+- [Changelog](#changelog)  
 
 # Lesson
-### Chapter 1, Section 1.4
+### Chapter 1, Section 1.4 : Computer Systems 
 https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf
 
-### 
+### Chapter 2: Programming Languages
+
+### Chapter 3: Logic Development: Flowcharts 
+
+### Chapter 4: Logic Development: Pseudocode 
+https://github.com/robitussin/CCINCOML/tree/main/Part%203%20-%20Logic%20Development
+
+### Chapter 5: The Number System
+
+### Chapter 6: Logic Gates 
+
+### Chapter 7: Introduction to Python programming language Part 1
+
+### Chapter 7: Introduction to Python programming language Part 2
+
 
 # Exercise
 
