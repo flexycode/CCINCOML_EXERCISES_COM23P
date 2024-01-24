@@ -27,7 +27,7 @@
 * ✍️ Write a pseudocode of your algorithm
 
 ```bash 
-Kindly see the "blackjack_strategy_algorithm" text file for my overall analysis
+Kindly see the "blackjack_strategy_algorithm" text file for my overall analysis and explanation
 ```
 
 
