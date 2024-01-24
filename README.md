@@ -25,12 +25,12 @@ Course Outline: https://believed-bongo-319.notion.site/CCINCOML-53b7f7cef72a4359
 
 - [Introduction](#introduction)
 - [Lesson](#lesson)     
-- [Exercise](##%EF%B8%8Fexercise)
-- [Contributing](##contributing)      
-- [License](#🔑License)  
-- [Acknowledgements](#🔭Acknowledgements) 
-- [FAQ](#💬faq)    
-- [Changelog](#📫Changelogs)        
+- [Exercise](#%EF%B8%8Fexercise)
+- [Contributing](#contributing)       
+- [License](#licensee)   
+- [Acknowledgements](#acknowledgements) 
+- [FAQ](#faq)     
+- [Changelog](#changelogs)         
 
 # 💻Lesson    
 ### Chapter 1, Section 1.4 : Computer Systems 
