@@ -21,6 +21,9 @@
 <img src="odd even.png">
 
 ## Algorithm, flowchart and pseudocode
+
 Think of an algorithm on how you will increase your chance of winning blackjack
-Create a flowchart of you algorithm
-Write a pseudocode of your algorithm
+
+* Create a flowchart of you algorithm 
+* Write a pseudocode of your algorithm
+
