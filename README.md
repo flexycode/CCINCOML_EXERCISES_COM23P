@@ -40,7 +40,7 @@ https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf
 
 ### Chapter 3: Logic Development: Flowcharts 
 
-### Chapter 4: Logic Development: Pseudocode  
+### Chapter 4: Logic Development: Pseudocode   
 https://github.com/robitussin/CCINCOML/tree/main/Part%203%20-%20Logic%20Development
 
 ### Chapter 5: The Number System
@@ -74,7 +74,7 @@ https://github.com/robitussin/CCINCOML/tree/main/Part%203%20-%20Logic%20Developm
 
 🤖 Think of an algorithm on how you will increase your chance of winning blackjack
 
-* ✍️ Create a flowchart of you algorithm  
+* ✍️ Create a flowchart of you algorithm   
 * ✍️ Write a pseudocode of your algorithm
 
 ```bash 
@@ -99,9 +99,9 @@ Outlines guidelines for contributing to the project, including how to submit bug
 ```
 # 🔑License      
 
-This project is licensed under the [National University of Manila License](LICENSE).
+This lecture is licensed under the [National University of Manila License](LICENSE).
 
-## National University of Manila License  
+## National University of Manila License   
 
 The National University of Manila License grants permission to students of the National University of Manila to use, modify, and distribute this project for educational purposes within the scope of their coursework and assignments.
 
