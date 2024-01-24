@@ -1,0 +1,17 @@
+Start
+    Start the game of blackjack
+    Receive the initial two cards
+    Evaluate the value of the dealer's face-up card
+    Evaluate the value of your hand
+    Consider the basic blackjack strategy guidelines
+        If dealer's face-up card is 2-6 and hand value is 12 or higher, stand
+        If dealer's face-up card is 7-Ace and hand value is 17 or higher, stand
+        If dealer's face-up card is 2-6 and hand value is 11 or lower, hit
+        If dealer's face-up card is 7-Ace and hand value is 16 or lower, hit
+        Follow specific guidelines for soft hands if applicable
+        Follow specific guidelines for pair splitting if applicable
+        Follow general hitting/standing guidelines
+    Make the appropriate decision based on the guidelines
+    Repeat steps 3-6 until the game is over
+    End the game
+End

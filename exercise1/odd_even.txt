@@ -1,0 +1,10 @@
+Start
+    Create a scanner object called "reader" to read input from the user
+    Display the message "Enter a number: "
+    Read an integer input from the user and store it in the variable "num"
+    
+    If the remainder of "num" divided by 2 is equal to 0, then
+        Display the message "num is even"
+    Else
+        Display the message "num is odd"
+End
