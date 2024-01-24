@@ -1,8 +1,7 @@
 # CCINCOML_EXERCISES_COM23P 
-### Exercise 1 
-#### Jay Arre Talosig  
-#### CCINCOML COM23P 
-#### Professor Elizer Jr. D. Ponio  
+### Name: Jay Arre Talosig  
+### Section: CCINCOML COM23P 
+### Professor: Elizer Jr. D. Ponio  
 
 # Exercise 1
 
