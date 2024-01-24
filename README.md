@@ -143,4 +143,6 @@ To be follow
 
 ### Fixed
 - Resolved issue with png file
-- Fixed some psuedocode blackjack.txt
+- Fixed some psuedocode blackjack.txt 
+
+#### [Back to Table of Content](#introduction)
