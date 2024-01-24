@@ -1,0 +1,57 @@
+# Algorithm to Increase Chance of Winning Blackjack:
+
+# Step 1: Start the game of blackjack.
+# Step 2: Receive the initial two cards.
+# Step 3: Evaluate the value of the dealer's face-up card.
+# Step 4: Evaluate the value of your hand.
+# Step 5: Consider the basic blackjack strategy guidelines:
+
+# If the dealer's face-up card is 2-6, and your hand value is 12 or higher, stand.
+// Stand if dealer's card is 2-6 and hand value is 12 or higher
+
+# If the dealer's face-up card is 7-Ace, and your hand value is 17 or higher, stand.
+// Stand if dealer's card is 7-Ace and hand value is 17 or higher
+
+# If the dealer's face-up card is 2-6, and your hand value is 11 or lower, hit.
+// Hit if dealer's card is 2-6 and hand value is 11 or lower
+
+# If the dealer's face-up card is 7-Ace, and your hand value is 16 or lower, hit.
+// Hit if dealer's card is 7-Ace and hand value is 16 or lower
+
+# If the dealer's face-up card is 7 or higher, and you have a soft hand (hand with an Ace), follow the specific guidelines for soft hands.
+// Follow specific guidelines for soft hands if dealer's card is 7 or higher and hand contains an Ace
+
+# If the dealer's face-up card is 4-6, and you have a pair of 5s or 10s, split.
+// Split if dealer's card is 4-6 and hand contains a pair of 5s or 10s
+
+# If the dealer's face-up card is 2-3 or 7-Ace, and you have a pair of 8s or Aces, split.
+// Split if dealer's card is 2-3 or 7-Ace and hand contains a pair of 8s or Aces
+
+# If the dealer's face-up card is 5-6, and you have a pair of 2s or 3s, split.
+// Split if dealer's card is 5-6 and hand contains a pair of 2s or 3s
+
+# If the dealer's face-up card is 2-6, and you have a pair of 4s, split.
+// Split if dealer's card is 2-6 and hand contains a pair of 4s 
+
+# If the dealer's face-up card is 2-6, and you have a pair of 6s, split.
+// Split if dealer's card is 2-6 and hand contains a pair of 6s
+
+# If the dealer's face-up card is 2-9, and you have a pair of 7s, split.
+// Split if dealer's card is 2-9 and hand contains a pair of 7s
+
+# If the dealer's face-up card is 2-7, and you have a pair of 9s, split.
+// Split if dealer's card is 2-7 and hand contains a pair of 9s
+
+# If the dealer's face-up card is 2-10, and you have a pair of Jacks, Queens, or Kings, stand.
+// Stand if dealer's card is 2-10 and hand contains a pair of Jacks, Queens, or Kings
+
+# If none of the above conditions apply, follow the general guidelines for hitting or standing based on your hand value.
+// Follow general guidelines for hitting or standing based on hand value
+
+# Step 6: Make the appropriate decision based on the guidelines.
+# Step 7: Repeat steps 3-6 until the game is over.
+# Step 8: End the game.
+
+-- Please note that the algorithm and comments provided are for fun and exercise purposes only. They were not originally intended to be included in the 
+required submission or the blackjack.py file. 
+I created them as a way to challenge myself and practice my skills. They are separate from the required materials and should not be included in the final submission. -- 
