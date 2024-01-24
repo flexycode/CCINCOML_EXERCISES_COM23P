@@ -1,4 +1,4 @@
-# 💫 CCINCOML_EXERCISES_COM23P    
+# 💫 CCINCOML_EXERCISES_COM23P     
 ### Name: Jay Arre Talosig  
 ### Subject & Section: CCINCOML COM23P  
 ### Professor: Elizer Jr. D. Ponio       
@@ -24,15 +24,15 @@ Course Outline: https://believed-bongo-319.notion.site/CCINCOML-53b7f7cef72a4359
 | Part 7 - Introduction to Python programming language Part 2 | Loops, Lists, Dictionaries, Functions |
 
 - [Introduction](#introduction)
-- [Lesson](#💻lesson)   
+- [Lesson](#💻Lesson)    
 - [Exercise](#✍️Exercise)
-- [Contributing](#🏆contributing)    
-- [License](#🔑license)  
-- [Acknowledgements](#🔭acknowledgements) 
-- [FAQ](#💬faq)   
-- [Changelog](#📫Changelogs)      
+- [Contributing](#🏆Contributing)     
+- [License](#🔑License)  
+- [Acknowledgements](#🔭Acknowledgements) 
+- [FAQ](#💬faq)    
+- [Changelog](#📫Changelogs)        
 
-# 💻Lesson   
+# 💻Lesson    
 ### Chapter 1, Section 1.4 : Computer Systems 
 https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf
 
@@ -93,11 +93,11 @@ Date: January 30, 2024   
 Coming Soon
 Date: February 7, 2024   
 ```
-# 🏆 Contributing   
+# 🏆Contributing    
 ```bash
 Outlines guidelines for contributing to the project, including how to submit bug reports, feature requests, or pull requests.
 ```
-# 🔑 License      
+# 🔑License      
 
 This project is licensed under the [National University of Manila License](LICENSE).
 
@@ -120,17 +120,17 @@ The National University of Manila License grants permission to students of the N
 
 This project is provided "as is" without warranty of any kind, express or implied. The National University of Manila and the project contributors disclaim any liability or responsibility for any direct, indirect, incidental, special, exemplary, or consequential damages arising out of the use or misuse of this project.
 
-# 🔭 Acknowledgements  
+# 🔭Acknowledgements   
 
 ## Professor Elizer Jr. D. Ponio 
 Professor Elizer Jr. Ponio is a software engineer, lecturer, and machine learning engineer at the National University. With a Bachelor of Science degree in Computer Science, he brings a strong foundation in computer science principles. Prof. Ponio's expertise in software engineering and machine learning is evident in his teaching style and practical approach. He is dedicated to providing students with a comprehensive understanding of the subject matter and incorporates real-world applications into his instruction. Prof. Ponio's combination of academic qualifications, industry experience, and passion for teaching make him a valuable asset to the National University community.
 
-# 💬 FAQ   
-```bash 
+# 💬FAQ    
+```bash  
 To be follow
 ```
-# 📫 Changelogs  
-## [1.0.0] - 2024-01-24  
+# 📫Changelogs   
+## [1.0.0] - 2024-01-24   
 ### Added
 - Uploaded the Exercise_1 that contains png and txt file 
 - Added breakdown and documentation
