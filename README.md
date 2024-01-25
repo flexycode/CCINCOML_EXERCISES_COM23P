@@ -136,6 +136,7 @@ To be follow
 - Added breakdown and documentation
 - Included user profile page
 - Added some python script just for fun and to know if my programm and algorithm is executing properly
+- Added blackjack_strategy_algorithm.txt to explain my overall concept about the algorithm in Blackjack 
 
 ### Changed
 - Refactored my flow chart
