@@ -37,9 +37,9 @@ Course Outline: https://believed-bongo-319.notion.site/CCINCOML-53b7f7cef72a4359
 https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf
 
 ### Chapter 2: Programming Languages
-
+https://github.com/robitussin/CCINCOML/blob/main/Part%202%20-%20Programming%20Languages/Programming%20Languages.pptx
 ### Chapter 3: Logic Development: Flowcharts 
-
+https://github.com/robitussin/CCINCOML/blob/main/Part%203%20-%20Logic%20Development/Flowchart.pptx
 ### Chapter 4: Logic Development: Pseudocode   
 https://github.com/robitussin/CCINCOML/tree/main/Part%203%20-%20Logic%20Development
 
