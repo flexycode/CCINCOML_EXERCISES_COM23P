@@ -129,7 +129,7 @@ Professor Elizer Jr. Ponio is a software engineer, lecturer, and machine learnin
 ```bash  
 To be follow
 ```
-# 📫Changelogs    
+# 📫Changelogs     
 ## [1.0.0] - 2024-01-24    
 ### Added  
 - Uploaded the Exercise_1 that contains png and txt file 
@@ -148,19 +148,18 @@ To be follow
 
 ## [1.0.1] - 2024-01-31
 ### Added  
-- 
-- 
-- 
-- 
-- 
+- Intended for the Exercise_2 
+- 📫Coming Soon 
+- 📫Coming Soon 
+- 📫Coming Soon
+- 📫Coming Soon
 
 ### Changed
--
+- 📫Coming Soon 
 - Updated documentation for readme file
 
 ### Fixed
 - Resolved issue with png file
-- 
 - Fixed some psuedocode blackjack.txt
 
 #### [Back to Table of Content](#introduction)
