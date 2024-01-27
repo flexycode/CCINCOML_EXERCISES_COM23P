@@ -93,7 +93,7 @@ Date: January 30, 2024   
 Coming Soon
 Date: February 7, 2024   
 ```
-# 🏆Contributing    
+# 🏆Contributing     
 ```bash
 Outlines guidelines for contributing to the project, including how to submit bug reports, feature requests, or pull requests.
 ```
@@ -129,8 +129,8 @@ Professor Elizer Jr. Ponio is a software engineer, lecturer, and machine learnin
 ```bash  
 To be follow
 ```
-# 📫Changelogs   
-## [1.0.0] - 2024-01-24   
+# 📫Changelogs    
+## [1.0.0] - 2024-01-24    
 ### Added
 - Uploaded the Exercise_1 that contains png and txt file 
 - Added breakdown and documentation
@@ -144,6 +144,8 @@ To be follow
 
 ### Fixed
 - Resolved issue with png file
-- Fixed some psuedocode blackjack.txt 
+- Fixed some psuedocode blackjack.txt
+
+## [1.0.1] - 2024-01-31
 
 #### [Back to Table of Content](#introduction)
