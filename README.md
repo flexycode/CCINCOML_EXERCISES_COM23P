@@ -148,18 +148,19 @@ To be follow
 
 ## [1.0.1] - 2024-01-31
 ### Added  
-- Uploaded the Exercise_1 that contains png and txt file 
-- Added breakdown and documentation
-- Included user profile page
-- Added some python script just for fun and to know if my programm and algorithm is executing properly
-- Added blackjack_strategy_algorithm.txt to explain my overall concept about the algorithm in Blackjack 
+- 
+- 
+- 
+- 
+- 
 
 ### Changed
-- Refactored my flow chart
+-
 - Updated documentation for readme file
 
 ### Fixed
 - Resolved issue with png file
+- 
 - Fixed some psuedocode blackjack.txt
 
 #### [Back to Table of Content](#introduction)
