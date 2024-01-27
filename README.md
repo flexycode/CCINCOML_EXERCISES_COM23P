@@ -17,7 +17,7 @@ Course Outline: https://believed-bongo-319.notion.site/CCINCOML-53b7f7cef72a4359
 | Part 1 - Computer Systems | Brief History of Computer systems, Types of Computer Systems, Components of a Computer system and Computer Networks |
 | Part 2 - Programming Languages | Brief History and Types of Programming Languages|
 | Part 3 - Logic Development: Flowcharts | Symbols, Connections and Rules |   
-| Part 4 - Logic Development: Pseudocode | Language, Keywords and Rules | 
+| Part 4 - Logic Development: Pseudocode | Language, Keywords and Rules |  
 | Part 5 - The Number System | Types, Conversions, Basic Operations and Complements |
 | Part 6 - Logic Gates | Types, Expressions, Diagrams, Basic Boolean Operators |
 | Part 7 - Introduction to Python programming language Part 1 | Overview, Basic Syntax, Variables, Basic Operations, Decision Making |
@@ -131,7 +131,23 @@ To be follow
 ```
 # 📫Changelogs    
 ## [1.0.0] - 2024-01-24    
-### Added
+### Added  
+- Uploaded the Exercise_1 that contains png and txt file 
+- Added breakdown and documentation
+- Included user profile page
+- Added some python script just for fun and to know if my programm and algorithm is executing properly
+- Added blackjack_strategy_algorithm.txt to explain my overall concept about the algorithm in Blackjack 
+
+### Changed
+- Refactored my flow chart
+- Updated documentation for readme file
+
+### Fixed
+- Resolved issue with png file
+- Fixed some psuedocode blackjack.txt  
+
+## [1.0.1] - 2024-01-31
+### Added  
 - Uploaded the Exercise_1 that contains png and txt file 
 - Added breakdown and documentation
 - Included user profile page
@@ -145,7 +161,5 @@ To be follow
 ### Fixed
 - Resolved issue with png file
 - Fixed some psuedocode blackjack.txt
-
-## [1.0.1] - 2024-01-31
 
 #### [Back to Table of Content](#introduction)
