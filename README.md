@@ -32,7 +32,7 @@ Course Outline: https://believed-bongo-319.notion.site/CCINCOML-53b7f7cef72a4359
 - [Changelog](#changelogs)         
 
 # 💻Lesson    
-### Chapter 1, Section 1.4 : Computer Systems 
+### Chapter 1: Section 1.4 : Computer Systems 
 https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf
 
 ### Chapter 2: Programming Languages
