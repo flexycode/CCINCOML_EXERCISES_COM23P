@@ -1,3 +1,5 @@
+PSEUDOCODE:
+
 Start
     Create a scanner object called "reader" to read input from the user
     Display the message "Enter a number: "
