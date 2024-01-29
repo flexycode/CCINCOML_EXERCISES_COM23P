@@ -9,7 +9,6 @@
 This repository contains all of the python code implementations for each topic in the course outline for Computer Organization and Architecture
 
 Course Outline: https://believed-bongo-319.notion.site/CCINCOML-53b7f7cef72a4359a01aa69ac1f39cb3?pvs=4
-
   
 ### CCINCOML Table lecture
 | Topic | Description | 
