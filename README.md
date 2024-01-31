@@ -82,8 +82,8 @@ Kindly see the "blackjack_strategy_algorithm" text file for my overall analysis 
 ### Exercise 2
 
 ```bash  
-Coming Soon
-Date: January 30, 2024   
+Kindy see the Exercise2 for more information regarding on this topic
+Date: January 31, 2024     
 ```
 
 ### Exercise 3
