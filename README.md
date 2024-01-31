@@ -41,9 +41,8 @@ https://github.com/robitussin/CCINCOML/blob/main/Part%202%20-%20Programming%20La
 https://github.com/robitussin/CCINCOML/blob/main/Part%203%20-%20Logic%20Development/Flowchart.pptx
 ### Chapter 4: Logic Development: Pseudocode   
 https://github.com/robitussin/CCINCOML/tree/main/Part%203%20-%20Logic%20Development
-
 ### Chapter 5: The Number System
-
+https://github.com/robitussin/CCINCOML/blob/main/Part%204%20-%20Number%20System/The%20Number%20System.pptx
 ### Chapter 6: Logic Gates  
 
 ### Chapter 7: Introduction to Python programming language Part 1
