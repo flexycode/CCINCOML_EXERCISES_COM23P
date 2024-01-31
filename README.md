@@ -144,10 +144,21 @@ To be follow
 - Resolved issue with png file
 - Fixed some psuedocode blackjack.txt  
 
-## [1.0.1] - 2024-02-01 
+## [1.0.1] - 2024-02-01  
 ### Added  
 - Added some lecture github link in The Number System 
 - Uploaded some png file in Exercise_2
+
+### Changed
+- Updated documentation for readme file
+
+### Fixed
+- Resolved issue with png file
+- Fixed some incorrect data in readme file
+
+## [1.0.2] - 2024-02-07   
+### Added   
+- Intended for Exercise_3
 - 📫Coming Soon 
 - 📫Coming Soon
 - 📫Coming Soon
@@ -158,6 +169,5 @@ To be follow
 
 ### Fixed
 - Resolved issue with png file
-- Fixed some incorrect data in readme file
 
 #### [Back to Table of Content](#introduction)
