@@ -144,10 +144,11 @@ To be follow
 - Resolved issue with png file
 - Fixed some psuedocode blackjack.txt  
 
-## [1.0.1] - 2024-02-01  
+## [1.0.2] - 2024-02-02   
 ### Added  
 - Added some lecture github link in The Number System 
 - Uploaded some png file in Exercise_2
+- Add file in Exercise_2
 
 ### Changed
 - Updated documentation for readme file
