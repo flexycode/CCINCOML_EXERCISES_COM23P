@@ -15,7 +15,7 @@ Course Outline: https://believed-bongo-319.notion.site/CCINCOML-53b7f7cef72a4359
 | :---: | :---: |       
 | Part 1 - Computer Systems | Brief History of Computer systems, Types of Computer Systems, Components of a Computer system and Computer Networks |
 | Part 2 - Programming Languages | Brief History and Types of Programming Languages|
-| Part 3 - Logic Development: Flowcharts | Symbols, Connections and Rules |   
+| Part 3 - Logic Development: Flowcharts | Symbols, Connections and Rules |    
 | Part 4 - Logic Development: Pseudocode | Language, Keywords and Rules |  
 | Part 5 - The Number System | Types, Conversions, Basic Operations and Complements |
 | Part 6 - Logic Gates | Types, Expressions, Diagrams, Basic Boolean Operators |
@@ -159,8 +159,7 @@ To be follow
 
 ## [1.3.3] - 2024-02-07    
 ### Added    
-- Intended for Exercise_3
-- 📫Coming Soon  
+- Uploaded Exercise No 3
 - 📫Coming Soon 
 - 📫Coming Soon
 ### Changed
