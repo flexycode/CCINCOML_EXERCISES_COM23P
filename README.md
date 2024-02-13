@@ -10,7 +10,7 @@ This repository contains all of the python code implementations for each topic i
 
 Course Outline: https://believed-bongo-319.notion.site/CCINCOML-53b7f7cef72a4359a01aa69ac1f39cb3?pvs=4
   
-### CCINCOML Table lecture
+### CCINCOML Table lecture 
 | Topic | Description | 
 | :---: | :---: |       
 | Part 1 - Computer Systems | Brief History of Computer systems, Types of Computer Systems, Components of a Computer system and Computer Networks |
@@ -82,15 +82,22 @@ Kindly see the "blackjack_strategy_algorithm" text file for my overall analysis 
 ### Exercise 2
 
 ```bash  
-Kindy see the Exercise2 for more information regarding on this topic
+Kindy see the Exercise2 repo for more information regarding on this activity
 Date: January 31, 2024     
 ```
 
 ### Exercise 3
 ```bash  
-Coming Soon
-Date: February 7, 2024   
+Kindy see the Exercise3 repo for more information regarding on this activity 
+Date: February 7, 2024    
 ```
+
+### Exercise 4
+```bash  
+Kindy see the Exercise4 repo for more information regarding on this activity 
+Date: February 14, 2024     
+```
+
 # 🏆Contributing     
 ```bash
 Outlines guidelines for contributing to the project, including how to submit bug reports, feature requests, or pull requests.
