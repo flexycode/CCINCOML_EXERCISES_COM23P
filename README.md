@@ -74,7 +74,7 @@ https://github.com/robitussin/CCINCOML/blob/main/Part%204%20-%20Number%20System/
 
 * ✍️ Create a flowchart of you algorithm   
 * ✍️ Write a pseudocode of your algorithm
-
+ 
 ```bash 
 Kindly see the "blackjack_strategy_algorithm" text file for my overall analysis and explanation
 ```
@@ -164,16 +164,27 @@ To be follow
 - Resolved issue with png file
 - Fixed some incorrect data in readme file
 
-## [1.3.3] - 2024-02-07    
-### Added    
+## [1.3.3] - 2024-02-07     
+### Added     
 - Uploaded Exercise No 3
-- 📫Coming Soon 
-- 📫Coming Soon
-### Changed
-- 📫Coming Soon 
+   
+### Changed 
 - Updated documentation for readme file
 
 ### Fixed
 - Resolved issue with png file
+
+## [1.3.4] - 2024-02-13      
+### Added   
+- Uploaded documentation for RM file
+- 📫Coming Soon  
+- 📫Coming Soon  
+- 📫Coming Soon
+### Changed
+- 📫Coming Soon 
+- 📫Coming Soon
+
+### Fixed
+- 📫Coming Soon
 
 #### [Back to Table of Content](#introduction)
