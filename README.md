@@ -30,7 +30,7 @@ Course Outline: https://believed-bongo-319.notion.site/CCINCOML-53b7f7cef72a4359
 - [Acknowledgements](#acknowledgements) 
 - [FAQ](#faq)     
 - [Changelog](#changelogs)         
-
+ 
 # 💻Lesson    
 ### Chapter 1: Section 1.4 : Computer Systems 
 https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf
@@ -44,7 +44,7 @@ https://github.com/robitussin/CCINCOML/tree/main/Part%203%20-%20Logic%20Developm
 ### Chapter 5: The Number System
 https://github.com/robitussin/CCINCOML/blob/main/Part%204%20-%20Number%20System/The%20Number%20System.pptx
 ### Chapter 6: Logic Gates  
-
+https://github.com/robitussin/CCINCOML/blob/main/Part%205%20-%20Logic%20Gates/Boolean%20Logic%20and%20Logic%20Gates.pptx
 ### Chapter 7: Introduction to Python programming language Part 1
 
 ### Chapter 7: Introduction to Python programming language Part 2
@@ -174,12 +174,12 @@ To be follow
 ### Fixed
 - Resolved issue with png file
 
-## [1.3.4] - 2024-02-13      
+## [1.3.4] - 2024-02-14        
 ### Added   
-- Uploaded documentation for RM file
-- 📫Coming Soon  
-- 📫Coming Soon  
-- 📫Coming Soon
+- Uploaded documentation for RM file 
+- Added some lecture github link in The Boolean Logic and Logic Gates
+- 📫Coming Soon    
+- 📫Coming Soon 
 ### Changed
 - 📫Coming Soon 
 - 📫Coming Soon
