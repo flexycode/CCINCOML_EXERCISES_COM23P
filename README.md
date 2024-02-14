@@ -135,7 +135,7 @@ Professor Elizer Jr. Ponio is a software engineer, lecturer, and machine learnin
 To be follow
 ```
 # 📫Changelogs     
-## [1.0.0] - 2024-01-24    
+## [1.1.9] - 2024-01-24     
 ### Added  
 - Uploaded the Exercise_1 that contains png and txt file 
 - Added breakdown and documentation
@@ -151,7 +151,7 @@ To be follow
 - Resolved issue with png file
 - Fixed some psuedocode blackjack.txt  
 
-## [1.2.2] - 2024-02-02    
+## [1.2.6] - 2024-02-02     
 ### Added   
 - Added some lecture github link in The Number System 
 - Uploaded some png file in Exercise_2
@@ -174,12 +174,24 @@ To be follow
 ### Fixed
 - Resolved issue with png file
 
-## [1.3.4] - 2024-02-14        
-### Added   
+## [1.4.2] - 2024-02-14          
+### Added    
 - Uploaded documentation for RM file 
 - Added some lecture github link in The Boolean Logic and Logic Gates
-- 📫Coming Soon    
+   
+### Changed
+- 📫Later 
+- 📫Later nga kulet 
+
+### Fixed
+- 📫Mamaya 
+
+## [1.5.0] - 2024-02-21           
+### Added   
 - 📫Coming Soon 
+- 📫Coming Soon
+- 📫Coming Soon     
+- 📫Coming Soon  
 ### Changed
 - 📫Coming Soon 
 - 📫Coming Soon
