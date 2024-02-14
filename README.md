@@ -180,11 +180,11 @@ To be follow
 - Added some lecture github link in The Boolean Logic and Logic Gates
    
 ### Changed
-- 📫Later 
-- 📫Later nga kulet 
+- 📫 
+- 📫
 
 ### Fixed
-- 📫Mamaya 
+- 📫
 
 ## [1.5.0] - 2024-02-21           
 ### Added   
