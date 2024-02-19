@@ -174,14 +174,13 @@ To be follow
 ### Fixed
 - Resolved issue with png file
 
-## [1.4.2] - 2024-02-14          
-### Added    
+## [1.4.3] - 2024-02-14           
+### Added     
 - Uploaded documentation for RM file 
 - Added some lecture github link in The Boolean Logic and Logic Gates
    
 ### Changed
-- 📫 
-- 📫
+- Updated the documentation 
 
 ### Fixed
 - 📫
