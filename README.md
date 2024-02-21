@@ -198,4 +198,10 @@ To be follow
 ### Fixed
 - 📫Coming Soon
 
+// Later
+
+https://www.quora.com/Can-you-move-files-from-one-folder-to-another-in-Git-GitHub#:~:text=%C2%B7%201y-,Yes%2C%20you%20can%20move%20files%20from%20one%20folder%20to%20another,symlink%20in%20the%20Git%20repository.&text=This%20will%20move%20the%20file,to%2Fdestination%2Ffolder%20folder.
+
+//
+
 #### [Back to Table of Content](#introduction)
