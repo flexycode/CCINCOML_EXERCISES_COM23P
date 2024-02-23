@@ -193,7 +193,7 @@ To be follow
 - 📫Coming Soon  
 ### Changed
 - Remove unnecessary documentation
-- 📫Coming Soon
+- Deleted Exercise5.1.ipynb
 
 ### Fixed
 - Added some subfolder for exercise no. 4 
