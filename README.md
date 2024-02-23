@@ -37,7 +37,7 @@ https://www.pearsonhighered.com/assets/samplechapter/0/3/2/1/0321537114.pdf
 
 ### Chapter 2: Programming Languages
 https://github.com/robitussin/CCINCOML/blob/main/Part%202%20-%20Programming%20Languages/Programming%20Languages.pptx
-### Chapter 3: Logic Development: Flowcharts 
+### Chapter 3: Logic Development: Flowcharts  
 https://github.com/robitussin/CCINCOML/blob/main/Part%203%20-%20Logic%20Development/Flowchart.pptx
 ### Chapter 4: Logic Development: Pseudocode   
 https://github.com/robitussin/CCINCOML/tree/main/Part%203%20-%20Logic%20Development
@@ -110,7 +110,7 @@ This lecture is licensed under the [National University of Manila License](LICEN
 
 The National University of Manila License grants permission to students of the National University of Manila to use, modify, and distribute this project for educational purposes within the scope of their coursework and assignments.
 
-### Usage
+### Usage 
 
 - You may use this project as a reference or learning material for your studies at the National University of Manila.
 - You may modify the project to suit your educational needs and requirements.
@@ -127,7 +127,7 @@ This project is provided "as is" without warranty of any kind, express or implie
 
 # 🔭Acknowledgements   
 
-## Professor Elizer Jr. D. Ponio 
+## Professor Elizer Jr. D. Ponio  
 Professor Elizer Jr. Ponio is a software engineer, lecturer, and machine learning engineer at the National University. With a Bachelor of Science degree in Computer Science, he brings a strong foundation in computer science principles. Prof. Ponio's expertise in software engineering and machine learning is evident in his teaching style and practical approach. He is dedicated to providing students with a comprehensive understanding of the subject matter and incorporates real-world applications into his instruction. Prof. Ponio's combination of academic qualifications, industry experience, and passion for teaching make him a valuable asset to the National University community.
 
 # 💬FAQ    
@@ -176,7 +176,7 @@ To be follow
 
 ## [1.4.3] - 2024-02-14           
 ### Added     
-- Uploaded documentation for RM file 
+- Uploaded documentation for RM file  
 - Added some lecture github link in The Boolean Logic and Logic Gates
    
 ### Changed
@@ -187,8 +187,8 @@ To be follow
 
 ## [1.5.0] - 2024-02-21           
 ### Added   
-- 📫Coming Soon 
-- 📫Coming Soon
+- Uploaded Exercise No. 5 
+- 📫Coming Soon 
 - 📫Coming Soon     
 - 📫Coming Soon  
 ### Changed
