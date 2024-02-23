@@ -46,7 +46,7 @@ https://github.com/robitussin/CCINCOML/blob/main/Part%204%20-%20Number%20System/
 ### Chapter 6: Logic Gates  
 https://github.com/robitussin/CCINCOML/blob/main/Part%205%20-%20Logic%20Gates/Boolean%20Logic%20and%20Logic%20Gates.pptx
 ### Chapter 7: Introduction to Python programming language Part 1
-
+https://github.com/robitussin/CCINCOML/tree/main/Part%206%20-%20Introduction%20to%20Python%20Programming%20Language%201
 ### Chapter 7: Introduction to Python programming language Part 2
 
 
@@ -182,21 +182,19 @@ To be follow
 ### Changed
 - Updated the documentation 
 
-### Fixed
-- 📫
-
-## [1.5.0] - 2024-02-21           
-### Added   
-- Uploaded Exercise No. 5 
-- 📫Coming Soon 
-- 📫Coming Soon     
-- 📫Coming Soon  
+## [1.5.7] - 2024-02-21            
+### Added    
+- Uploaded Exercise No. 5   
+- Uploaded New Exercise via Colab 
+- Added a lecture link for Chapter 7: Introduction to Python programming language Part 1    
+- 📫Coming Soon   
 ### Changed
 - Remove unnecessary documentation
 - Deleted Exercise5.1.ipynb
 
 ### Fixed
-- Added some subfolder for exercise no. 4 
+- Added some subfolder for exercise no. 4 
+- Fixed some line of code via colab 
 
 
 #### [Back to Table of Content](#introduction)
