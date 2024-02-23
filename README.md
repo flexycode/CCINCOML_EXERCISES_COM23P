@@ -196,7 +196,7 @@ To be follow
 - 📫Coming Soon
 
 ### Fixed
-- 📫Coming Soon
+- Added some subfolder for exercise no. 4 
 
 // Later
 
