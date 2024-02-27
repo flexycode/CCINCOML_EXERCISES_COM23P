@@ -193,7 +193,7 @@ To be follow
 - Uploaded Exercise No. 5   
 - Uploaded New Exercise via Colab 
 - Added a lecture link for Chapter 7: Introduction to Python programming language Part 1    
-- 📫Coming Soon      
+      
 ### Changed
 - Remove unnecessary documentation
 - Deleted Exercise5.1.ipynb
@@ -205,7 +205,7 @@ To be follow
 ## [1.6.0] - 2024-02-28              
 ### Added      
 - 📫Coming Soon    
-- 📫Coming Soon
+- 📫Coming Soon 
 - 📫Coming Soon    
 - 📫Coming Soon       
 ### Changed
