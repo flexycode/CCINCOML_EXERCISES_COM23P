@@ -89,7 +89,7 @@ Date: January 31, 2024     
 ### Exercise 3
 ```bash  
 Kindy see the Exercise3 repo for more information regarding on this activity 
-Date: February 7, 2024    
+Date: February 7, 2024     
 ```
 
 ### Exercise 4
@@ -98,7 +98,13 @@ Kindy see the Exercise4 repo for more information regarding on this activity 
 Date: February 14, 2024     
 ```
 
-# 🏆Contributing     
+### Exercise 5
+```bash  
+Kindy see the Exercise5 repo for more information regarding on this activity 
+Date: February 21, 2024      
+```
+
+# 🏆Contributing      
 ```bash
 Outlines guidelines for contributing to the project, including how to submit bug reports, feature requests, or pull requests.
 ```
@@ -182,19 +188,33 @@ To be follow
 ### Changed
 - Updated the documentation 
 
-## [1.5.7] - 2024-02-21            
-### Added    
+## [1.5.7] - 2024-02-21             
+### Added     
 - Uploaded Exercise No. 5   
 - Uploaded New Exercise via Colab 
 - Added a lecture link for Chapter 7: Introduction to Python programming language Part 1    
-- 📫Coming Soon   
+- 📫Coming Soon      
 ### Changed
 - Remove unnecessary documentation
 - Deleted Exercise5.1.ipynb
 
 ### Fixed
 - Added some subfolder for exercise no. 4 
-- Fixed some line of code via colab 
+- Fixed some line of code via colab
+
+## [1.6.0] - 2024-02-28              
+### Added      
+- 📫Coming Soon    
+- 📫Coming Soon
+- 📫Coming Soon    
+- 📫Coming Soon       
+### Changed
+- 📫Coming Soon
+- 📫Coming Soon
+
+### Fixed
+- 📫Coming Soon 
+- 📫Coming Soon
 
 
 #### [Back to Table of Content](#introduction)
