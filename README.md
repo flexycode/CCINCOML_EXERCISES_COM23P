@@ -202,15 +202,15 @@ To be follow
 - Added some subfolder for exercise no. 4 
 - Fixed some line of code via colab
 
-## [1.6.0] - 2024-02-28              
+## [1.6.0] - 2024-03-07                 
 ### Added      
-- 📫Coming Soon    
-- 📫Coming Soon 
+- Uploaded a documentation for RM file     
+- Uploaded New Exercise via Colab 
 - 📫Coming Soon    
 - 📫Coming Soon       
 ### Changed
-- 📫Coming Soon
-- 📫Coming Soon
+- Updated the documentation
+- 📫Coming Soon 
 
 ### Fixed
 - 📫Coming Soon 
