@@ -135,7 +135,7 @@ This project is provided "as is" without warranty of any kind, express or implie
 # 🔭Acknowledgements   
 
 ## Professor Elizer Jr. D. Ponio  
-Professor Elizer Jr. Ponio is a software engineer, lecturer, and machine learning engineer at the National University. With a Bachelor of Science degree in Computer Science, he brings a strong foundation in computer science principles. Prof. Ponio's expertise in software engineering and machine learning is evident in his teaching style and practical approach. He is dedicated to providing students with a comprehensive understanding of the subject matter and incorporates real-world applications into his instruction. Prof. Ponio's combination of academic qualifications, industry experience, and passion for teaching make him a valuable asset to the National University community.
+Professor Elizer Jr. Ponio is a Software engineer, lecturer, and Machine Learning engineer at the National University. With a Bachelor of Science degree and Master degree in Computer Science, he brings a strong foundation in computer science principles. Prof. Ponio's expertise in software engineering and machine learning is evident in his teaching style and practical approach. He is dedicated to providing students with a comprehensive understanding of the subject matter and incorporates real-world applications into his instruction. Prof. Ponio's combination of academic qualifications, industry experience, and passion for teaching make him a valuable asset to the National University community.
 
 # 💬FAQ    
 ```bash  
