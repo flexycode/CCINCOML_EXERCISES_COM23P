@@ -48,6 +48,7 @@ https://github.com/robitussin/CCINCOML/blob/main/Part%205%20-%20Logic%20Gates/Bo
 ### Chapter 7: Introduction to Python programming language Part 1
 https://github.com/robitussin/CCINCOML/tree/main/Part%206%20-%20Introduction%20to%20Python%20Programming%20Language%201
 ### Chapter 7: Introduction to Python programming language Part 2
+https://github.com/robitussin/CCINCOML/blob/main/Part%206%20-%20Introduction%20to%20Python%20Programming%20Language/Data_Structures.ipynb
 
 
 # ✍️Exercise
