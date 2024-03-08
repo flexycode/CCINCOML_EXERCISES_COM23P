@@ -1,7 +1,7 @@
 # 💫 CCINCOML_EXERCISES_COM23P     
-### Name: Jay Arre Talosig  
+### Name: [Jay Arre Talosig](https://github.com/flexycode) 
 ### Subject & Section: CCINCOML COM23P  
-### Professor: Elizer Jr. D. Ponio       
+### Professor: [Elizer Jr. D. Ponio](https://github.com/robitussin)        
 
 # 📊 Table of Contents
 
