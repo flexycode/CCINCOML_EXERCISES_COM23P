@@ -191,7 +191,7 @@ To be follow
 
 ## [1.5.7] - 2024-02-21             
 ### Added     
-- Uploaded Exercise No. 5   
+- Uploaded Exercise No. 5    
 - Uploaded New Exercise via Colab 
 - Added a lecture link for Chapter 7: Introduction to Python programming language Part 1    
       
@@ -200,22 +200,22 @@ To be follow
 - Deleted Exercise5.1.ipynb
 
 ### Fixed
-- Added some subfolder for exercise no. 4 
+- Added some subfolder for exercise no. 4  
 - Fixed some line of code via colab
 
-## [1.6.0] - 2024-03-07                 
+## [1.6.8] - 2024-03-07                  
 ### Added      
 - Uploaded a documentation for RM file     
 - Uploaded New Exercise via Colab 
 - Added a Master degree in Professor Ponio's Acknowledgement     
-- 📫Coming Soon       
+- Added some comment in every funtion that I wrote in my exercise6.ipynb at google colab         
 ### Changed
 - Updated the documentation
-- 📫Coming Soon 
+- Update some changes in my code in collab 
 
 ### Fixed
-- 📫Coming Soon 
-- 📫Coming Soon
+- Revised my exercise6.ipynb due to some minor error  
+- Fixed some comment at the last part of exercise6.ipynb 
 
 
 #### [Back to Table of Content](#introduction)
