@@ -209,12 +209,14 @@ To be follow
 - Added some subfolder for exercise no. 4  
 - Fixed some line of code via colab
 
-## [1.6.8] - 2024-03-07                  
+## [1.6.9] - 2024-03-08                   
 ### Added      
 - Uploaded a documentation for RM file     
 - Uploaded New Exercise via Colab 
 - Added a Master degree in Professor Ponio's Acknowledgement     
-- Added some comment in every funtion that I wrote in my exercise6.ipynb at google colab         
+- Added some comment in every funtion that I wrote in my exercise6.ipynb at google colab
+- Uploaded the Final Exercise
+           
 ### Changed
 - Updated the documentation
 - Update some changes in my code in collab 
