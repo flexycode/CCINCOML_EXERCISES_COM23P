@@ -105,6 +105,12 @@ Kindy see the Exercise5 repo for more information regarding on this activity 
 Date: February 21, 2024      
 ```
 
+### Exercise 6
+```bash  
+Kindy see the Exercise6 repo for more information regarding on this activity 
+Date: March 06, 2024       
+```
+
 # 🏆Contributing      
 ```bash
 Outlines guidelines for contributing to the project, including how to submit bug reports, feature requests, or pull requests.
