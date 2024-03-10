@@ -1,1 +1,9 @@
-EAT BULAGA!!!!!!
+This is our Final exercise for CCINCOML and also final exam for this course.
+
+Please go to the link below and follow the instructions:
+https://github.com/robitussin/CCINCOML_EXERCISES/blob/main/FinalExercise.ipynb
+ 
+When you are done, please save it to your CCINCOML_EXERCISES_COM23P repository and name the file finalexercise.ipynb
+ 
+The deadline of this submission was March 8, 2024 at 11:59:59 pm
+
